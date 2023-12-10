@@ -13,4 +13,3 @@ The config is a modified version from the following Guide:
 `https://www.youtube.com/watch?v=ZjMzBd1Dqz8` - Note that the guide is using LazyVim, the config is adjusted accordingly.
 
 
-
