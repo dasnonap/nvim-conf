@@ -60,7 +60,7 @@ lspconfig.intelephense.setup({
 		local root = lspconfig.util.root_pattern("composer.json", ".git")(pattern)
 
 		-- prefer cwd if root is a descendant
-		-- return lspconfig.util.path.is_descendant(cwd, root) and cwd or root
+		--	return lspconfig.util.path.is_descendant(cwd, root) and cwd or root
 		return cwd
 	end,
 })
